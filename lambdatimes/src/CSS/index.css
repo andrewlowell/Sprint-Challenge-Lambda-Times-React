@@ -272,7 +272,7 @@ body {
   height: 500px;
   position: relative;
   overflow: hidden;
-  margin-top: 16px;
+  margin-top: 70px;
 }
 @media (min-width: 1200px) {
   .carousel {
